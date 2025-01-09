@@ -20,7 +20,7 @@ Please provide answers to these questions using markdown notation and place them
 
 3. Please provide a link to the repository you are using for this class.
 
-https://github.com/MarcellusL/cs283.git
+- https://github.com/MarcellusL/cs283.git
 
 4. Briefly describe what you want to get out of this class.
 - What I want to get out of Systems Programming is to learn more about the computer scientist/engineer skillset. My main focus has been on application development but would like to delve more into designing the software needed for application developers.
