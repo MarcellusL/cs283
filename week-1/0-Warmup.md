@@ -1,0 +1,28 @@
+## Warmup Assignment
+
+#### Questions to Answer
+Please provide answers to these questions using markdown notation and place them in the `\0-Warmup` directory in your git repository:
+
+1. Select with an `x` the platform you will be using for your course deliverables:
+
+    - [ ] drexel's tux cluster
+    - [X] WSL on Windows
+    - [ ] Orbstack on MacOs
+    - [ ] VMWare Fusion
+    - [ ] Somthing else (put name here)
+
+2. I have installed my virtual machine, tested it, feel comfortable using it, and validated that the required software is installed:
+
+    - [ ] YES
+    - [ ] N/A - I plan to use tux
+    - [X] NO - Not Yet
+
+
+3. Please provide a link to the repository you are using for this class.
+https://github.com/MarcellusL/cs283.git
+
+4. Briefly describe what you want to get out of this class.
+- What I want to get out of Systems Programming is to learn more about the computer scientist/engineer skillset. My main focus has been on application development but would like to delve more into designing the software needed for application developers.
+
+5. Briefly describe any concerns you might be having with being successful in this class (if any).
+- A concern I would have in being successful in this course is my limited knowledge in C. 
