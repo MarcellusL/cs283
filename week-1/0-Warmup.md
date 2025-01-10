@@ -15,7 +15,7 @@ Please provide answers to these questions using markdown notation and place them
 
     - [X] YES
     - [ ] N/A - I plan to use tux
-    - [] NO - Not Yet
+    - [ ] NO - Not Yet
 
 
 3. Please provide a link to the repository you are using for this class.
